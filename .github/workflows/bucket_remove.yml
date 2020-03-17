@@ -6,7 +6,7 @@ on:
 jobs:
   bucket_remove:
     env:
-      BUCKET_NAME: 'gatsby-ipfs-blog'
+      BUCKET_NAME: 'jekyll-ipfs-blog'
     runs-on: ubuntu-latest
     name: Remove a Textile Bucket
     steps:
