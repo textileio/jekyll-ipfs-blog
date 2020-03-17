@@ -1,6 +1,7 @@
 # Jekyll
 
 .jekyll-cache
+_site
 
 # Logs
 logs
