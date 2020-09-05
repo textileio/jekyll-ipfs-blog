@@ -1,4 +1,4 @@
-Jekyll Blog published with IPFS
+Jekyll Blog published with IPFS (PR)
 ===============================
 
 This repo provides an example setup to publish your Jekyll project on IPFS and mirror those changes over a freely provided or custom domain name.
